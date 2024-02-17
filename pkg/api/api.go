@@ -3,10 +3,10 @@ package api
 import (
 	"fmt"
 
-	"github.com/CrossStack-Q/thirdday/contants"
+	"github.com/CrossStack-Q/thirdday/constants"
 )
 
 func CallAPI() {
 	fmt.Println("API Called")
-	contants.Constants()
+	constants.Constants()
 }

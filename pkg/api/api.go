@@ -7,6 +7,6 @@ import (
 )
 
 func CallAPI() {
-	fmt.Println("API Called ..")
+	fmt.Println("API Called")
 	constants.Constants()
 }
